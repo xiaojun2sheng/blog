@@ -2,3 +2,12 @@ node_modules
 .temp
 .cache
 dist
+public/404.html
+public/guide.html
+public/index.html
+public/service-worker.js
+public/accumulate/index.html
+public/algorithm/index.html
+public/assets/js/app.0fd53307.js
+public/assets/js/app.c1461c4e.js
+public/others/index.html
